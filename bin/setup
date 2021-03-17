@@ -7,3 +7,4 @@
 # should Just Work.
 
 npm ci
+npm run test
