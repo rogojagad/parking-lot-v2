@@ -1,0 +1,14 @@
+{
+  "name": "parking_lot_2.0.0",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
